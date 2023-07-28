@@ -1,0 +1,8 @@
+D:\Phase-1\Assisted Projects\Primitive  Types  and Expressions\Primitive  Types  and Expressions\Primitive  Types  and Expressions\obj\Debug\Primitive  Types  and Expressions.csproj.AssemblyReference.cache
+D:\Phase-1\Assisted Projects\Primitive  Types  and Expressions\Primitive  Types  and Expressions\Primitive  Types  and Expressions\obj\Debug\Primitive  Types  and Expressions.csproj.SuggestedBindingRedirects.cache
+D:\Phase-1\Assisted Projects\Primitive  Types  and Expressions\Primitive  Types  and Expressions\Primitive  Types  and Expressions\obj\Debug\Primitive  Types  and Expressions.csproj.CoreCompileInputs.cache
+D:\Phase-1\Assisted Projects\Primitive  Types  and Expressions\Primitive  Types  and Expressions\Primitive  Types  and Expressions\bin\Debug\Primitive  Types  and Expressions.exe.config
+D:\Phase-1\Assisted Projects\Primitive  Types  and Expressions\Primitive  Types  and Expressions\Primitive  Types  and Expressions\bin\Debug\Primitive  Types  and Expressions.exe
+D:\Phase-1\Assisted Projects\Primitive  Types  and Expressions\Primitive  Types  and Expressions\Primitive  Types  and Expressions\bin\Debug\Primitive  Types  and Expressions.pdb
+D:\Phase-1\Assisted Projects\Primitive  Types  and Expressions\Primitive  Types  and Expressions\Primitive  Types  and Expressions\obj\Debug\Primitive  Types  and Expressions.exe
+D:\Phase-1\Assisted Projects\Primitive  Types  and Expressions\Primitive  Types  and Expressions\Primitive  Types  and Expressions\obj\Debug\Primitive  Types  and Expressions.pdb
